@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*__This__ is my comment.*
 Use the left arrow to go back!
